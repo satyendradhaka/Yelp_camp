@@ -1,0 +1,24 @@
+
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.delete-form{
+	display: inline;
+}
+
+
+.info{
+	color: white;
+}
+
+/* .form{
+	background-image: url(https://images.wallpaperscraft.com/image/tent_camping_nature_139624_300x188.jpg);
+	background-repeat: no-repeat;
+	background-position: inherit;
+	background-size: cover;
+} */
